@@ -123,33 +123,68 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1670" alt="Screenshot 2023-08-19 at 1 46 39 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/d685ba49-0357-49d6-8be2-8454c0821958">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Configure Users (customers)
+
+  - AgentPanel->Users->AddNew
+  - Swith to the Agent Panel up top
+</p>
+<p>
+  <img width="1670" alt="Screenshot 2023-08-19 at 1 47 54 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/6c628361-2ff1-4f16-ac33-996df6031247">
+</p>
+<p>
+- Create a new user
+</p>
+<p>
+  <img width="1670" alt="Screenshot 2023-08-19 at 1 50 05 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/8f38b051-0870-4307-a086-fe73cd5034cc">
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1670" alt="Screenshot 2023-08-19 at 1 52 29 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/2fdc924b-b510-4c94-bdad-e96514883cd4">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Configure SLA
+
+  - AdminPanel->Manage->SLA
+    - Sev-A (1 hour, 24/7)
+    - Sev-B (4 hours, 24/7)
+    - Sev-C (8 hours, business hours)
+</p>
+<p>
+  <img width="1670" alt="Screenshot 2023-08-19 at 1 53 42 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/ba6e0ec2-c81c-4455-8984-c4fe62941abf">
+<img width="1670" alt="Screenshot 2023-08-19 at 1 54 44 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/2ca13045-10f3-4015-aca6-1bcae650db19">
+  <img width="1670" alt="Screenshot 2023-08-19 at 1 55 41 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/a8f3b910-ac3a-4153-8ba2-2f52ff92299e">
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1670" alt="Screenshot 2023-08-19 at 1 58 18 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/058ad63f-561f-4c2b-9632-c4e139f41e7b">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Configure Help Topics
+
+  - AdminPanel->Manage->HelpTopics
+    - Business Critical Outage
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
+</p>
+<p>
+  <img width="1670" alt="Screenshot 2023-08-19 at 1 59 33 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/65912662-92f8-4154-bb70-d8bdeb216eeb">
+<img width="1670" alt="Screenshot 2023-08-19 at 2 00 11 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/70d4ed47-0bdc-4f8a-8a28-d6a7aa1c2152">
+<img width="1670" alt="Screenshot 2023-08-19 at 2 00 56 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/ded892b9-0738-4684-92e8-afa5b02b8c4e">
+<img width="1670" alt="Screenshot 2023-08-19 at 2 01 44 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/3efea74e-d6cf-4448-95b4-a3a313f28103">
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- That concludes our osTcket post-install configuration.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img width="1670" alt="Screenshot 2023-08-19 at 2 03 45 PM" src="https://github.com/rene369a/post-install-config/assets/142533276/e768785c-b554-4291-8cf8-d19d17a5fc19">
 </p>
 <br />
